@@ -55,3 +55,6 @@ Ações do uso de outras branchs para trabalhar com equipe:
 6. Git pull
 7. Mergiar(unir) o código do branch temporário com a branch principal(depois de testar)
 8. Git push da branch principal  
+
+git checkout -b <nome da nova branch>
+cria uma nova branch com base na branch principal
